@@ -1,0 +1,22 @@
+name: drawing_app
+description: A Flutter drawing application for final year project.
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.0.12
+  shared_preferences: ^2.1.1
+  flutter_colorpicker: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/yeama.jpg
+ 
