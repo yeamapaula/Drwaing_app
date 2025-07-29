@@ -22,7 +22,7 @@ class HomeScreen extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children:  [
                 Text(
-                  'Welcome to My Drawing App:)',
+                  'Welcome to My Drawing App',
                   style: TextStyle(
                     fontSize: 18,
                     fontWeight: FontWeight.bold,
